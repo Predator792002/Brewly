@@ -124,7 +124,7 @@ h3,
   gap: 20px;
   padding: 40px 20px;
   max-width: 1000px;
-  margin-left: 450px;
+  margin-left: auto;
   margin-right: auto;
 }
 
@@ -140,7 +140,7 @@ h3,
   height: 125px;
   width: 20vw;
   color: #6C4E31;
-  /*! flex-shrink: 0; */
+   flex-shrink: 0;
 }
 
 .desc {
