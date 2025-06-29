@@ -6,7 +6,7 @@ Brewly is a fully responsive, single-page product landing website built using HT
 
 ## 🔍 Live Preview
 
-**Hosted on GitHub Pages:** [View Site](https://your-username.github.io/Brewly)
+**Hosted on GitHub Pages:** [Brewly](https://predator792002.github.io/Brewly/)
 
 ---
 
@@ -36,13 +36,13 @@ Brewly is a fully responsive, single-page product landing website built using HT
 
 ## 📸 Screenshots
 
-![Hero Section](./screenshots/hero-section.png)
+![Hero Section](https://github.com/Predator792002/Brewly/blob/main/ScreenShots/Screenshot%20From%202025-06-29%2018-17-40.png)
 *Hero section with coffee background and signup form*
 
-![Product Grid](./screenshots/product-grid.png)
+![Product Grid](https://github.com/Predator792002/Brewly/blob/main/ScreenShots/Screenshot%20From%202025-06-29%2018-18-00.png)
 *Responsive product card layout showcasing coffee varieties*
 
-![Mobile View](./screenshots/mobile-view.png)
+![Mobile View](https://github.com/Predator792002/Brewly/blob/main/ScreenShots/Screenshot%20From%202025-06-29%2018-26-52.png)
 *Mobile-optimized responsive design*
 
 ---
@@ -105,12 +105,12 @@ To run the project locally:
 
 ---
 
-## ✨ Author
+## 👨‍💻 Author
 
-**Ayush Gupta**  
-👨‍💻 [GitHub Profile](https://github.com/your-username)  
-💼 [Portfolio](https://your-portfolio-link.com)  
-📧 [Email](mailto:your-email@example.com)
+**Your Name**
+- GitHub: [@ayushGupta](https://github.com/Predator792002)
+- LinkedIn: [ayushgupta-LinkedIn](https://www.linkedin.com/in/aayush-gupta-568403260/)
+- Email: aayushgupta792002@gmail.com
 
 ---
 
